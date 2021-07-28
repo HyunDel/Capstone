@@ -1,0 +1,8 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+        // "Django/CapD_api/CapD_rest/app",
+    ],
+    "python.pythonPath": "/usr/local/bin/python"
+}
